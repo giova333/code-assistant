@@ -1,0 +1,8 @@
+# Environments
+.venv
+venv/
+
+code_repository/
+code_index/
+
+.idea/
